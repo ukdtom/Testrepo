@@ -7,9 +7,9 @@
         <changeLog>https://forums.plex.tv/t/plex-media-server/30447/last</changeLog>
         <category>Plex Inc</category>
         <type>Entertainment</type>
-        <icon80>https://www.orstrand.dk/appstore/PlexMediaServer_80x80.gif</icon80>
-        <icon100>https://www.orstrand.dk/appstore/PlexMediaServer_100x100.gif</icon100>
-        <snapshot>https://www.orstrand.dk//appstore/PlexQNAPScreenshot.png</snapshot>
+        <icon80>https://github.com/ukdtom/Testrepo/blob/main/PlexMediaServer_80x80.gif?raw=true</icon80>
+        <icon100>https://github.com/ukdtom/Testrepo/blob/main/PlexMediaServer_100x100.gif?raw=true</icon100>
+        <snapshot>https://github.com/ukdtom/Testrepo/blob/main/PlexQNAPScreenshot.png?raw=true</snapshot>
         <description><![CDATA[ Plex organizes all of your personal media so you can easily access and enjoy it ]]></description>
         <fwVersion>4.3.0</fwVersion>
         <version>1.29.0.6244</version>
