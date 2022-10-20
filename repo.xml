@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <cachechk>202219102223</cachechk>
+	<item>
+        <name>Plex Media Server</name>
+        <internalName>PMS (Plex Repo)</internalName>
+        <changeLog>https://forums.plex.tv/t/plex-media-server/30447/last</changeLog>
+        <category>Plex Inc</category>
+        <type>Entertainment</type>
+        <icon80>https://www.orstrand.dk/appstore/PlexMediaServer_80x80.gif</icon80>
+        <icon100>https://www.orstrand.dk/appstore/PlexMediaServer_100x100.gif</icon100>
+        <snapshot>https://www.orstrand.dk//appstore/PlexQNAPScreenshot.png</snapshot>
+        <description><![CDATA[ Plex organizes all of your personal media so you can easily access and enjoy it ]]></description>
+        <fwVersion>4.3.0</fwVersion>
+        <version>1.29.0.6244</version>
+        <publishedDate>2022/10/19</publishedDate>
+        <maintainer><![CDATA[Plex build team]]></maintainer>
+        <developer><![CDATA[Plex Inc]]></developer>
+        <forumLink><![CDATA[https://forums.plex.tv]]></forumLink>
+        <language><![CDATA[English]]></language>
+        <bannerImg></bannerImg>
+        <tutorialLink><![CDATA[https://support.plex.tv/articles]]></tutorialLink>
+		<platform>
+            <!-- Intel x86_64-->
+            <platformID>TS-NASX86</platformID>
+			<location>https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.qpkg</location>
+        </platform>
+        <platform>
+            <!-- Arm v8-->
+            <platformID>TS-NASARM_64</platformID>
+            <location>https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-aarch64.qpkg</location>
+        </platform>
+        <platform>
+            <!-- Arm v7-->
+            <platformID>TS-NASARM</platformID>
+            <location>https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-armv7hf.qpkg</location>
+        </platform>
+        <!-- We need to ask QNAP for platformID for Armv7+ devices (neon) -->
+    </item>
+</plugins>
