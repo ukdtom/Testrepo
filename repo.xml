@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugins>
-    <cachechk>202220101240</cachechk>
+    <cachechk>202220101312</cachechk>
     <item>
         <name>Plex Media Server</name>
-        <internalName>PMS (Plex Repo)</internalName>
+        <internalName>Plex Media Server</internalName>
         <changeLog>https://forums.plex.tv/t/plex-media-server/30447/last</changeLog>
         <category>Plex Inc</category>
         <type>Entertainment</type>
