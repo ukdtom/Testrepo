@@ -2,7 +2,9 @@
 <plugins>
     <cachechk>PLEX_CACHECHK</cachechk>
     <item>
-        <![CDATA[ Plex Media Server ]]>
+        <name>
+            <![CDATA[ Plex Media Server ]]>
+        </name>
         <internalName>PlexMediaServer</internalName>
         <changeLog>https://forums.plex.tv/t/plex-media-server/30447/last</changeLog>
         <category>Plex Inc</category>
