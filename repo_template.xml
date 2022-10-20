@@ -66,6 +66,6 @@
           <platformID>TS-X41</platformID>
           <location>PLEX_ARMV7NEON</location>
         </platform>
-        <!-- We need to ask QNAP for platformID for Armv7+ devices (neon) -->
+        <!-- We need to ask QNAP for platformID for Armv7+ devices (armv7hf) -->
     </item>
 </plugins>

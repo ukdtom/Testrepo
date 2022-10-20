@@ -38,6 +38,6 @@
             <platformID>TS-NASARM</platformID>
             <location>https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-armv7hf.qpkg</location>
         </platform>
-        <!-- We need to ask QNAP for platformID for Armv7+ devices (neon) -->
+        <!-- We need to ask QNAP for platformID for Armv7+ devices (armv7hf) -->
     </item>
 </plugins>
