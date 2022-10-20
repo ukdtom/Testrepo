@@ -20,10 +20,10 @@
         <language><![CDATA[English, 简体中文, 繁體中文, Czech, Dansk, Nederlands, Suomi, Français, Deutsch, Ελληνικά, Magyar, Italiano, 日本語, 한글, Norsk, Polski, Português, Român, Русский, Español, Svenska, ไทย, Turk dili]]></language>
         <bannerImg></bannerImg>
         <tutorialLink><![CDATA[https://support.plex.tv/articles]]></tutorialLink>
-		<platform>
+        <platform>
             <!-- Intel x86_64-->
             <platformID>TS-NASX86</platformID>
-			<location>https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.qpkg</location>
+            <location>https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.qpkg</location>
         </platform>
         <platform>
             <!-- Arm v8-->
