@@ -1,5 +1,5 @@
 # Testrepo
 Just a small test
 
-Use: https://github.com/ukdtom/Testrepo/blob/main/repo.xml
+Use: https://raw.githubusercontent.com/ukdtom/Testrepo/main/repo.xml
 
