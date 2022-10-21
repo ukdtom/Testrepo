@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugins>
-    <cachechk>202221102246</cachechk>
+    <cachechk>202221102247</cachechk>
     <item>
-        <name>
-            <![CDATA[ Plex Media Server ]]>
-        </name>
+        <name>Plex Media Server</name>
         <internalName>PlexMediaServer1</internalName>
         <changeLog>https://forums.plex.tv/t/plex-media-server/30447/last</changeLog>
         <category>Plex Inc</category>
