@@ -14,7 +14,7 @@
         <snapshot>https://github.com/ukdtom/Testrepo/blob/main/PlexQNAPScreenshot.png?raw=true</snapshot>
         <description><![CDATA[ Plex gives you one place to find and access all the media that matters to you. From personal media on your own server, to free and on-demand Movies & Shows, live TV, podcasts, and web shows, to streaming music, you can enjoy it all in one app, on any device. ]]></description>
         <fwVersion>4.3.0</fwVersion>
-        <version>1.29.1.6316</version>
+        <version>1.29.1</version>
         <publishedDate>2022/10/19</publishedDate>
         <maintainer><![CDATA[Plex build team]]></maintainer>
         <developer><![CDATA[Plex Inc]]></developer>
