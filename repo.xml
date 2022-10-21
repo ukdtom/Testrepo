@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugins>
-    <cachechk>202221101524</cachechk>
+    <cachechk>202221102245</cachechk>
     <item>
         <name>
-            <![CDATA[ PMS-Plex Repo ]]>
+            <![CDATA[ Plex Media Server ]]>
         </name>
         <internalName>PlexMediaServer</internalName>
         <changeLog>https://forums.plex.tv/t/plex-media-server/30447/last</changeLog>
