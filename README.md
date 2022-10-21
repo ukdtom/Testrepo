@@ -18,4 +18,7 @@ To update xml, use repo_template file, and in that, replace the following:
 * PLEX_ARM64
   * URL to download Arm v8, like: https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-aarch64.qpkg
 
-We miss TS-x31 and ts-x31u
+## TODO:
+* We miss TS-x31 and ts-x31u (*armv7hf.qpkg builds)
+* addrepo.sh needs to go into package_routines/pkg_post_install() function
+
